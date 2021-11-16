@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++ -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/2020__.dir/keypad.cpp.o CMakeFiles/2020__.dir/keypad2.cpp.o CMakeFiles/2020__.dir/keypadImproved.cpp.o CMakeFiles/2020__.dir/maxmize.cpp.o CMakeFiles/2020__.dir/shopping.cpp.o -o 2020__ 
